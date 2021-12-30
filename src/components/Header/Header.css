@@ -1,0 +1,22 @@
+.header-part{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.title{
+  
+  color: rgb(247, 243, 8);
+  font-size: 40px;
+  width: 50%;
+  font-weight: 500;
+  margin-top: 15px;
+}
+
+.eye-care{
+  font-size: 20px;
+  color: blue;
+}
+
+.bd{
+  font-size: 17px;
+}

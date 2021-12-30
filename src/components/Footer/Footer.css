@@ -1,0 +1,18 @@
+
+.footer-part{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  }
+  
+  .footer-quote{
+    font-style: italic;
+    font-weight: 100;
+  }
+
+  .footer-wrapper{
+    margin-top: 150px;
+  }
+
+  
